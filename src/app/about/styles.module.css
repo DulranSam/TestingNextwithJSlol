@@ -1,0 +1,12 @@
+.main{
+    min-height: 100vh;
+    display:grid;
+    place-content: center;
+    background-color: black;
+    color:white;
+    margin:2%;
+}
+
+.k{
+    text-align: center;
+}
